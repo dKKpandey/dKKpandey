@@ -1,6 +1,6 @@
 # Hi, I'm Dr. Kamal Pandey
 
-AI/ML Researcher, Architect, Technical Leader, Innovation Advocate, Author and speaker.
+AI/ML Researcher, Architect, Technical Leader, Innovation Advocate, Author and keynote speaker.
 
 <p>
   <a href="https://www.drkamalpandey.com"><img alt="Website" src="https://img.shields.io/badge/drkamalpandey.com-b5651d?style=flat" /></a>
